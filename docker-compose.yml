@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+    api_prod:
+        image: ak4txuk1/cj23group-api-prod:v2.0
+        ports:
+          - 127.0.0.1:9000:8000
